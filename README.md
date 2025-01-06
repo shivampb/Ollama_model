@@ -55,5 +55,7 @@ Run the Application:
 ```bash
 streamlit run <filename>.py
 ```
+# Screenshot
+![Screenshot](Screenshot.png)
 
 
